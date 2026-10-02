@@ -2,18 +2,18 @@
 
 ### Задание 1
 
-![Скриншот-1](https://github.com/morfaquarius/docker-part-2/blob/main/img/img1.png)
+![Скриншот-1](https://github.com/morfaquarius/sql-part-2/blob/main/img/img1.png)
 ---
 
 ### Задание 2
 
-![Скриншот-2](https://github.com/morfaquarius/docker-part-2/blob/main/img/img2.png)
+![Скриншот-2](https://github.com/morfaquarius/sql-part-2/blob/main/img/img2.png)
 ---
 
 
 ### Задание 3
 
-![Скриншот-3](https://github.com/morfaquarius/docker-part-2/blob/main/img/img3.png)
+![Скриншот-3](https://github.com/morfaquarius/sql-part-2/blob/main/img/img3.png)
 ---
 
 
